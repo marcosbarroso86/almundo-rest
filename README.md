@@ -32,9 +32,9 @@
   
   # Servicio
   
-    el servidor corre en http:localhost:3000
+    el servidor corre en http://localhost:3000
    
-    --endpoint : http:localhost:3000/api/hotels
+    --endpoint : http//localhost:3000/api/hotels
     
    
 
