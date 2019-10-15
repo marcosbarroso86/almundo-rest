@@ -1,13 +1,13 @@
 # almundo-rest
 
-#   Descripcion
+#   Descripción
     servidor nodejs hoteleria almundo (examen)
 
 #   Descarga del proyecto
 
     git clone https://github.com/marcosbarroso86/almundo-rest.git
 
-#   Instalacion de dependencias
+#   Instalación de dependencias
 
     cd almundo-rest
     npm install
@@ -29,19 +29,19 @@
     cd almundo-rest
     npm install -g pm2
     
-    ## comandos
+    # comandos
     
-    - iniciar el servicio
+    # iniciar el servicio
     npm run service  
     
-    - detener el servicio
+    # detener el servicio
     npm run shutdown
   
   # Servicio
   
     el servidor corre en http://localhost:3000
    
-    - endpoint : http//localhost:3000/api/hotels
+    # endpoint : http//localhost:3000/api/hotels
     
    
 
