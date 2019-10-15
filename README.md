@@ -28,13 +28,20 @@
     
     cd almundo-rest
     npm install -g pm2
-    npm run 
+    
+    ## comandos
+    
+    - iniciar el servicio
+    npm run service  
+    
+    - detener el servicio
+    npm run shutdown
   
   # Servicio
   
     el servidor corre en http://localhost:3000
    
-    --endpoint : http//localhost:3000/api/hotels
+    - endpoint : http//localhost:3000/api/hotels
     
    
 
