@@ -12,13 +12,13 @@
     cd almundo-rest
     npm install
 
-#   iniciando el servidor 
+#   Iniciando el servidor 
 
     npm start
     
     levanta el servicio sobre una sesion.
     
-#   iniciando el servidor con PM2 (opcional)
+#   Iniciando el servidor con PM2 (opcional)
 
     Pm2 es un gestor de procesos en producción para las aplicaciones Node.js 
     que tiene un balanceador de carga incorporado. PM2 permite mantener 
@@ -30,7 +30,7 @@
     npm install -g pm2
     npm run 
   
-  # servicio
+  # Servicio
   
     el servidor corre en http:localhost:3000
    
